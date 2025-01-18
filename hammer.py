@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# Hammer dos Script v.1
+# python 3.3.2+ Hammer dos Script v.1
+# by Zowfun Toys
+# only for legal purpose
 
 
 from queue import Queue
