@@ -13,7 +13,7 @@ $ nslookup example.com
 Note the IP Address of that Website
 
 then
-$ cd Hammer
+$ cd hammer
 $ python3 hammer.py -s [ip Address] -p 80 -t 135
 example:
 $ python3 hammer.py -s 123.45.67.89 -p 80 -t 135
