@@ -5,7 +5,7 @@ $ apt upgrade
 $ apt install python
 $ apt install git
 $ apt install dnsutils
-$ git clone https://github.com/zowfun/hammer
+$ git clone https://github.com/dohmke/hammer
 
 Hammer need the Name Server of a website which you want to attack...
 To get the Name Server...just type
