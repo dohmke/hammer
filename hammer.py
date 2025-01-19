@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # python 3.3.2+ Hammer dos Script v.1
-# by Zowfun Toys
+# by Tom Dohmke
 # only for legal purpose
 
 
